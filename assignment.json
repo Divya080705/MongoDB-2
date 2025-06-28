@@ -1,0 +1,33 @@
+{
+  "studentData": [
+    { "_id": { "$oid": "66c4a7a1f29610a41a44a001" }, "name": "Divya", "age": 22, "city": "Gudur" },
+    { "_id": { "$oid": "66c4a7a1f29610a41a44a002" }, "name": "Ravi", "age": 24, "city": "Chennai" },
+    { "_id": { "$oid": "66c4a7a1f29610a41a44a003" }, "name": "Meena", "age": 21, "city": "Hyderabad" }
+  ],
+  "employees": [
+    { "_id": { "$oid": "66c4a7a1f29610a41a44a004" }, "name": "Arjun", "salary": 32000, "department": "HR" },
+    { "_id": { "$oid": "66c4a7a1f29610a41a44a005" }, "name": "Sneha", "salary": 42000, "department": "IT" }
+  ],
+  "users": [
+    { "_id": { "$oid": "66c4a7a1f29610a41a44a006" }, "name": "Rakesh", "age": 35 },
+    { "_id": { "$oid": "66c4a7a1f29610a41a44a007" }, "name": "Sneha", "email": "sneha@example.com", "createdAt": "2025-06-28T12:00:00Z", "city": "Bangalore", "active": true },
+    { "_id": { "$oid": "66c4a7a1f29610a41a44a008" }, "name": "Arjun", "email": "arjun@example.com", "createdAt": "2025-06-25T10:00:00Z", "active": false },
+    { "_id": { "$oid": "66c4a7a1f29610a41a44a009" }, "username": "john_doe" }
+  ],
+  "books": [
+    { "_id": { "$oid": "66c4a7a1f29610a41a44a00a" }, "title": "Half Girlfriend", "author": "Chetan Bhagat", "publishedYear": 2012 }
+  ],
+  "customers": [
+    { "_id": { "$oid": "66c4a7a1f29610a41a44a00b" }, "name": "Alok", "city": "Delhi" },
+    { "_id": { "$oid": "66c4a7a1f29610a41a44a00c" }, "name": "Priya", "city": "Delhi" }
+  ],
+  "logs": [
+    { "_id": { "$oid": "66c4a7a1f29610a41a44a00d" }, "event": "login" },
+    { "_id": { "$oid": "66c4a7a1f29610a41a44a00e" }, "event": "logout" },
+    { "_id": { "$oid": "66c4a7a1f29610a41a44a00f" }, "event": "purchase" }
+  ],
+  "products": [
+    { "_id": { "$oid": "66c4a7a1f29610a41a44a010" }, "name": "Notebook", "price": 20 },
+    { "_id": { "$oid": "66c4a7a1f29610a41a44a011" }, "name": "Headphones", "price": 500 }
+  ]
+}
